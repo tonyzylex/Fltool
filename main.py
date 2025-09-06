@@ -2,7 +2,7 @@ import pyautogui
 import time
 import subprocess
 import psutil
-import os
+
 
 #settings
 delay = 2
